@@ -1,0 +1,15 @@
+1. CNN: 0.913
+2. Xception: 0.9556666666666667
+3. InceptionV3: 0.968 *******
+4. ResNet50: 0.885
+5. EfficientNetB0: 0.9789999999999999 *******
+6. VGG19: 0.0.9789999999999999 *******
+
+
+
+1. InceptionV3 + EfficientNetB0 => Average Accuracy: 0.96 **************
+2. EfficientNetB0 + VGG19       => Average Accuracy: 0.9466666666666667 **************
+3. InceptionV3 + VGG19    => Average Accuracy: 0.9186666666666667
+
+
+1. InceptionV3 + EfficientNetB0 + EfficientNetB0 + VGG19 => Ensemble Classifier Accuracy: 0.955
