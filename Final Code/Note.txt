@@ -1,4 +1,4 @@
-1. CNN:
+1. Scratched CNN:
 
 AdaBoost accuracy: 0.8833333333333333
 KNN accuracy: 0.9083333333333333
@@ -64,9 +64,9 @@ Average accuracy of classifiers: 0.9789999999999999
 
 
 
-1. InceptionV3 + EfficientNetB0 => Average Accuracy: 0.96 **************
-2. EfficientNetB0 + VGG19       => Average Accuracy: 0.9466666666666667 **************
-3. InceptionV3 + VGG19    => Average Accuracy: 0.9186666666666667
+1. InceptionV3 + EfficientNetB0  => Average Accuracy: 0.96 **************
+2. EfficientNetB0 + VGG19        => Average Accuracy: 0.9466666666666667 **************
+3. InceptionV3 + VGG19           => Average Accuracy: 0.9186666666666667
 
 
 1. InceptionV3 + EfficientNetB0 + EfficientNetB0 + VGG19 => Ensemble Classifier Accuracy: 0.955
