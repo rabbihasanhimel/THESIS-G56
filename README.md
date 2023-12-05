@@ -1,3 +1,7 @@
+Dataset Link - https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection?select=no
+
+
+
 # THESIS-G56
 
 1. Scratched CNN:
